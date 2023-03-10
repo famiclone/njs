@@ -1,3 +1,3 @@
-# TSBP
+# njs
 
-A simple boilerplate for developing web apps with typescript, deploying github pages from main branch.
+Yet another nes emulator for web browsers.
