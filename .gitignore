@@ -1,4 +1,6 @@
 build/
+*.nsf
+*.nes
 
 .DS_Store
 # Logs
